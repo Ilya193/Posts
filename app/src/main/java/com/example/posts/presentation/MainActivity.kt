@@ -1,4 +1,4 @@
-package com.example.posts
+package com.example.posts.presentation
 
 import android.os.Bundle
 import android.util.Log
